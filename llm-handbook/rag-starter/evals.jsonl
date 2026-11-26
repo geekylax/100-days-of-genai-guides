@@ -1,0 +1,20 @@
+{"q": "what are the three pipelines and how do they share data?", "source": "01-fti-architecture.md"}
+{"q": "which tools does the book use to orchestrate and store everything?", "source": "01-fti-architecture.md"}
+{"q": "should a tweet and a long article be split the same way?", "source": "02-data.md"}
+{"q": "is it ok to use two different embedding models in one index?", "source": "02-data.md"}
+{"q": "when do I need streaming instead of re-indexing on a schedule?", "source": "02-data.md"}
+{"q": "how can an 8B model be trained on a single GPU?", "source": "03-fine-tuning.md"}
+{"q": "my bot needs to know our new pricing, should I fine-tune it?", "source": "03-fine-tuning.md"}
+{"q": "how do you teach a model which of two answers is better without a reward model?", "source": "03-fine-tuning.md"}
+{"q": "do MMLU scores tell me if my app is good?", "source": "04-evaluation.md"}
+{"q": "can I use a strong model to grade my model's answers?", "source": "04-evaluation.md"}
+{"q": "how do I search only posts written by one author?", "source": "05-advanced-rag.md"}
+{"q": "why is a cross-encoder more accurate than embedding similarity?", "source": "05-advanced-rag.md"}
+{"q": "how do you avoid recomputing attention for earlier tokens?", "source": "06-inference.md"}
+{"q": "what makes vLLM handle so many users on one GPU?", "source": "06-inference.md"}
+{"q": "what are GGUF and GPTQ?", "source": "06-inference.md"}
+{"q": "what should I log once real users are on the app?", "source": "07-llmops.md"}
+{"q": "how do thumbs up and thumbs down feed back into training?", "source": "07-llmops.md"}
+{"q": "what order should a beginner learn this in?", "source": "08-learn-order.md"}
+{"q": "where can I find a free course by one of the authors?", "source": "09-go-deeper.md"}
+{"q": "what project does the book build from start to finish?", "source": "01-fti-architecture.md"}
